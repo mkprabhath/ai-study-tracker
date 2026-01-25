@@ -32,8 +32,12 @@ ai-study-tracker/
 └── .gitignore # Git ignored files
 
 ## How to Run Locally
+
 ### Backend
+
 ```bash
 cd server
+npm install
 node server.js
+
 
