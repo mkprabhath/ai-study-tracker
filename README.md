@@ -37,8 +37,3 @@ ai-study-tracker/
 cd server
 node server.js
 
-### Backend
-```bash
-cd server
-node server.js
-
