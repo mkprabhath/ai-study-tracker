@@ -30,3 +30,11 @@ ai-study-tracker/
 │
 ├── README.md # Project documentation
 └── .gitignore # Git ignored files
+
+## How to Run Locally
+
+### Backend
+```bash
+cd server
+node server.js
+
