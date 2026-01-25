@@ -18,18 +18,19 @@ A full-stack AI Study Tracker application built using Node.js and Express.
 ai-study-tracker/
 │
 ├── server/
-│ ├── server.js # Express server entry point
-│ ├── subject.json # Stores subjects data
-│ ├── package.json # Backend dependencies
-│ └── package-lock.json
+│   ├── server.js          # Express server entry point
+│   ├── subject.json       # Stores subjects data
+│   ├── package.json       # Backend dependencies
+│   └── package-lock.json
 │
 ├── client/
-│ ├── index.html # Main UI
-│ ├── style.css # Styling
-│ └── script.js # Frontend logic
+│   ├── index.html         # Main UI
+│   ├── style.css          # Styling
+│   └── script.js          # Frontend logic
 │
-├── README.md # Project documentation
-└── .gitignore # Git ignored files
+├── README.md              # Project documentation
+└── .gitignore             # Git ignored files
+
 
 ## How to Run Locally
 
